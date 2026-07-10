@@ -55,8 +55,9 @@ article header p {
     font-size: 16px;
 }
 
-.Related authors {
+.Related-authors {
     font-size: 18px;
     font-weight: bold;
+    /*
     color: blue;
 }
