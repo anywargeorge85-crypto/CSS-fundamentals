@@ -3,9 +3,9 @@ h1,h2,h3,h4,p,li {
 }
 
 h1 {
-color: #444444;
+color: #1098ad;
 font-size: 26px;
-text-transform: capitalize;
+text-transform: uppercase;
 font-style: italic;
 }
 
