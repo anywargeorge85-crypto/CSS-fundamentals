@@ -3,7 +3,7 @@ h1,h2,h3,h4,p,li {
 }
 
 h1 {
-color: rgb(255, 255, 255);
+color: #444444;
 font-size: 26px;
 text-transform: capitalize;
 font-style: italic;
