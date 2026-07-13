@@ -59,5 +59,8 @@ article header p {
     font-size: 18px;
     font-weight: bold;
     /*
-    color: blue;
+    color: blue;*/
+}
+.main-header {
+    background-color: #f7f7f7;
 }
