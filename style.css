@@ -76,6 +76,9 @@ body {
     /*
     background-color:#f7f7f7
     */
+    /*
+    text-align: center;
+    */
 }
 
 /*
@@ -121,3 +124,6 @@ a:active {
     font-style: italic;
 }
 
+.Learn {
+    color: #1098ad;
+}
