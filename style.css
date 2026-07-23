@@ -126,4 +126,6 @@ a:active {
 
 .Learn {
     color: #1098ad;
+    flex-direction: column;
+    flex-wrap: nowrap;
 }
