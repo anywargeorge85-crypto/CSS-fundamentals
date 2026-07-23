@@ -128,4 +128,5 @@ a:active {
     color: #1098ad;
     flex-direction: column;
     flex-wrap: nowrap;
+    align-items: center;
 }
